@@ -1,0 +1,14 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore large data files (optional, if your CSV is >100MB)
+*.csv
+*.xlsx
+
+# Ignore virtual environments
+venv/
+env/
